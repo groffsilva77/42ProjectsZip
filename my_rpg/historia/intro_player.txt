@@ -1,0 +1,1 @@
+Certo, prazer em te conhecer {player_name}. Enfim, vamos ao que interessa, onde você irá desembarcar: {land_name}!

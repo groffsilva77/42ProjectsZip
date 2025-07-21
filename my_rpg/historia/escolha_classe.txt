@@ -1,0 +1,4 @@
+Agora estamos praticamente prontos para avançar para a próxima etapa: escolha de classe.
+Em Earhardt, temos 3 tipos de classes diferentes, que são: Guerreiro, Mago e Clérigo.
+Cada uma tem as suas vantagens e desvantagens, subclasses e talentos inatos. Lhe darei
+uma breve introdução de cada uma para que não fique perdido nesse início de jornada.

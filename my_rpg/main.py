@@ -3,6 +3,7 @@ from combat import combate
 
 game_story = story()
 game_story.introduce_game()
+game_story.choose_occup()
 print(f"Se prepare, {game_story.player_name}, você entrará em combate!")
 
 meu_hp = 100
